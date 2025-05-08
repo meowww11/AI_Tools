@@ -1,6 +1,6 @@
 # No-Code AI Tools for Research and Report Generation
 
-This repository contains three no-code AI tools designed for business research and report generation.
+This repository contains no-code AI tools designed for business research and report generation.
 
 ## Tools
 
