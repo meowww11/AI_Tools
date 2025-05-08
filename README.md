@@ -11,7 +11,7 @@ This repository contains no-code AI tools designed for business research and rep
 
 ### 2. **Prospect Researcher 👤**
    - **Function:** Takes a LinkedIn URL, searches the web, and returns a summary of the prospect's professional background.
-   - **Link to Tool:** [Prospect Researcher]([https://relevanceai.com/tools/prospect-researcher](https://app.relevanceai.com/form/f1db6c/81af9009-53eb-4a42-bba4-527c3255e4b1?version=latest)) 
+   - **Link to Tool:** [Prospect Researcher]([https://relevanceai.com/tools/prospect-researcher](https://app.relevanceai.com/form/f1db6c/81af9009-53eb-4a42-bba4-527c3255e4b1?version=latest]) 
    - **How it works:** Input a prospect's LinkedIn URL, and the tool will return key information about the prospect's career, job roles, and relevant professional details.
 
 ## How to Use
