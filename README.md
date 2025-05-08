@@ -6,7 +6,7 @@ This repository contains no-code AI tools designed for business research and rep
 
 ### 1. **Company Researcher 🏢**
    - **Function:** Takes a company URL, searches the web, and returns a summary of relevant information about the company.
-   - **Link to Tool:** [Company Researcher]([https://relevanceai.com/tools/company-researcher](https://app.relevanceai.com/form/f1db6c/3a659959-17ab-4c52-bca4-e81cc0fc3827?version=latest))
+   - **Link to Tool:** [Company Researcher]([https://relevanceai.com/tools/company-researcher](https://app.relevanceai.com/form/f1db6c/3a659959-17ab-4c52-bca4-e81cc0fc3827?version=latest])
    - **How it works:** Input a company's URL, and the tool will provide a concise summary of the company's background, industry, and recent news.
 
 ### 2. **Prospect Researcher 👤**
